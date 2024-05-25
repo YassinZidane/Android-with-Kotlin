@@ -4,6 +4,6 @@ This repository contains a collection of Android projects developed using Kotlin
 
 ## Projects List
 
-1. RVexemple 1: Vertical RecyclerView .
+1. RVexemple 1: Vertical RecyclerView With Image and Text.
    - https://github.com/YassinZidane/Android-with-Kotlin/tree/master/RVexemple1
-   - Description: Project 01 : Vertical RecyclerView displays Images of country capitals with Names.Built with Kotlin 
+   - Project 01: Vertical RecyclerView displays images of country capitals with names. Built with Kotlin. 
